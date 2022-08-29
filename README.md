@@ -1,12 +1,7 @@
-lorem ipsum 
+lorem ipsum master
 ##second title
-<<<<<<< HEAD
-lorem ipsum 23
-some line updinting in very bad
-
-lorem ipsum 23
-
-lorem ipsum 23  
-line added
-ligne for very bad
+lorem ipsum 23 master
+some line updinting in very bad master
+line added master
+ligne for very bad master
 
